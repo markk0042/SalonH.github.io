@@ -1,0 +1,50 @@
+body{
+
+    background: url("../assets/images/salon-1.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.title{
+
+    font-size: 25px;
+    color: rgb(238, 93, 214);
+    font-family:'Pacifico'
+}
+/*Callout-Secrtion*/
+
+.text-card {
+
+    font-family: "Roboto",sans-serif;
+
+}
+
+.page-header {
+    text-align: center;
+    color: rgb(238, 93, 214);
+     font-family:'Pacifico'
+}
+
+
+.bottom{
+
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 5px;
+}
+
+/*--Footer*/
+.page-footer{
+
+    background-color: #eee;
+    margin-bottom: 0px;
+    margin-top: 370px;
+}
